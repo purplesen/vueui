@@ -2,12 +2,7 @@
   <div id="app">
     <router-view/>
 
-       <!--<ul id="footer">-->
-           <!--<li> <router-link to="/">商城 </router-link></li>-->
-           <!--<li> <router-link to="/category">分类 </router-link></li>-->
-           <!--<li> <router-link to="/category">购物车 </router-link></li>-->
-           <!--<li> <router-link to="/category">服务 </router-link></li>-->
-       <!--</ul>-->
+     
 
   </div>
 </template>
